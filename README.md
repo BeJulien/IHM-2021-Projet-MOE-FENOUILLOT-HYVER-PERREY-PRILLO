@@ -1,0 +1,16 @@
+# *TODOING,*
+
+## Description générale du projet
+
+L’application *TODOING,* vous donne la possibilité de gérer vos tâches !
+Pouvant être utilisée dans un cadre personnel ou bien professionnel, la confidentialité de vos données personnelles sont notre priorité et ne seront en aucun cas utilisées à des fins commerciales. L’application n’a aucune limite quant aux possibilités proposées, vous pouvez donc utiliser l’application pour le travail, faire vos courses, ou bien prévoir des tâches à venir, définir des tâches sur une durée déterminée ...
+
+#### Fonctionnalités :
+
+- Il est possible de créer une liste de tâches basée sur un modèle prédéfini.
+- Possibilité de créer des modèles personnalisés réutilisables autant de fois que voulu.
+- Codes couleurs personnalisables pour mieux identifier les tâches.
+- Notification pour les rappels (1 jour avant, 1 heure avant, ...) paramétrable.
+- Possibilité de partager des listes de tâche avec ses contacts et attribution des tâches à une ou plusieurs personnes.
+- Distinction du cadre professionnel et personnel.
+- Différents modes de vue des listes de tâches.
