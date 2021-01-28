@@ -1,5 +1,22 @@
 # *TODOING,*
 
+## Parties prenantes
+
+#### MOA / Représentants des utilisateurs
+
+| Nom     | Prénom | E-mail                     |
+| ------- | ------ | -------------------------- |
+| BENAC   | Julien | julien.benac@iut-rodez.fr  |
+| PORTIER | Johan  | johan.portier@iut-rodez.fr |
+
+#### MOE / Concepteurs
+
+| Nom | Prénom | E-mail |
+| ------------- | -------- | ----------------------------------- |
+| FENOUILLOT    | Tanguy   | tanguy.fenouillot@iut-rodez.fr      |
+| HYVER         | Florian  | florian.hyver@iut-rodez.fr          |
+| PERREY-PRILLO | Aurélien | aurelien.perrey-prillo@iut-rodez.fr |
+
 ## Description générale du projet
 
 L’application *TODOING,* vous donne la possibilité de gérer vos tâches !
