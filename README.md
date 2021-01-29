@@ -31,3 +31,5 @@ Pouvant être utilisée dans un cadre personnel ou bien professionnel, la confid
 - Possibilité de partager des listes de tâche avec ses contacts et attribution des tâches à une ou plusieurs personnes.
 - Distinction du cadre professionnel et personnel.
 - Différents modes de vue des listes de tâches.
+
+https://docs.google.com/document/d/1Z2lLH4H7JU8_k-I-0IMylXuKYKKkc-4bqf2ETZTkZ50/edit?usp=sharing
