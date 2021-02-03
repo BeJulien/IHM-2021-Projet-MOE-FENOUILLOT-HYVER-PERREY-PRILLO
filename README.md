@@ -33,3 +33,4 @@ Pouvant être utilisée dans un cadre personnel ou bien professionnel, la confid
 - Différents modes de vue des listes de tâches.
 
 https://docs.google.com/document/d/1Z2lLH4H7JU8_k-I-0IMylXuKYKKkc-4bqf2ETZTkZ50/edit?usp=sharing
+https://docs.google.com/document/d/1Z2lLH4H7JU8_k-I-0IMylXuKYKKkc-4bqf2ETZTkZ50/edit?usp=sharing
