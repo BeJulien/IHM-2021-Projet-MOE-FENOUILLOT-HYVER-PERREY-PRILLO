@@ -33,3 +33,4 @@ Pouvant être utilisée dans un cadre personnel ou bien professionnel, la confid
 - Différents modes de vue des listes de tâches.
 
 https://docs.google.com/document/d/1Z2lLH4H7JU8_k-I-0IMylXuKYKKkc-4bqf2ETZTkZ50/edit?usp=sharing
+Tous les dossiers MOE : https://drive.google.com/drive/folders/1-E_Aub_uIEcb6uWLov_u8u902uE6Ouv2?usp=sharing
