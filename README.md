@@ -2,6 +2,11 @@
  ## Parties prenantes
 ### MOA / Représentants des utilisateurs
 
+![menu](https://user-images.githubusercontent.com/47179554/113821240-2193b800-977c-11eb-819b-78e867a84951.png)
+![menu_2](https://user-images.githubusercontent.com/47179554/113821298-33755b00-977c-11eb-8518-c0eb711489b3.png)
+
+
+
 | Nom | Prénom |	E-mail |
 |---|---|---|
  | BENAC |	Julien |	julien.benac@iut-rodez.fr |
